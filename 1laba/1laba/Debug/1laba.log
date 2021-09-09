@@ -1,0 +1,4 @@
+﻿  1laba.cpp
+C:\Users\User.DESKTOP-Q2FT676\source\repos\1laba\1laba\1laba.cpp(24,13): warning C4101:  In: неиспользованная локальная переменная
+C:\Users\User.DESKTOP-Q2FT676\source\repos\1laba\1laba\1laba.cpp(24,9): warning C4101:  dy: неиспользованная локальная переменная
+  1laba.vcxproj -> C:\Users\User.DESKTOP-Q2FT676\source\repos\1laba\Debug\1laba.exe
